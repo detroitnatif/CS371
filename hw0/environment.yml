@@ -1,0 +1,19 @@
+name: compsci371
+channels:
+  - pytorch
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python
+  - notebook
+  - nbconvert
+  - jupytext
+  - numpy
+  - scikit-image
+  - scikit-learn
+  - scipy
+  - tqdm
+  - matplotlib
+  - pytorch
+  - torchvision
+  - autograd

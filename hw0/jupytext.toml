@@ -1,0 +1,4 @@
+formats = "ipynb,py:percent"
+cell_markers = "\"\"\""
+outdated_text_notebook_margin = 5
+
